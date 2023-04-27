@@ -10,3 +10,5 @@ this project will answer this questions
 1-what is the average income for gender to purchased
 2-what is relation between Customer Commute and purchased bike
 3-what is relation between Age Bracket and purchased bike
+ 
+through charts the answers will be clear and decision making easier
